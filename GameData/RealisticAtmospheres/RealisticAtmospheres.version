@@ -1,0 +1,21 @@
+{
+  "NAME": "Realistic-Atmospheres",
+  "URL": "https://raw.githubusercontent.com/OhioBob/Realistic-Atmospheres/master/GameData/RealisticAtmospheres/RealisticAtmospheres.version",  
+  "DOWNLOAD": "https://github.com/OhioBob/Realistic-Atmospheres/releases",
+  "CHANGE_LOG_URL": "https://github.com/OhioBob/Realistic-Atmospheres/blob/master/README.md",
+  "GITHUB": {
+    "USERNAME": "OhioBob",
+    "REPOSITORY": "Realistic-Atmospheres"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 1
+  }
+}
