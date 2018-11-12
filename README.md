@@ -1,4 +1,4 @@
-# Realistic-Atmospheres
+# Realistic Atmospheres
 
 This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
