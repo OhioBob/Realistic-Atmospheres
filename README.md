@@ -4,17 +4,10 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.3.0
+## v1.3.1
 
-* Atmospheres have been completely redone with new pressure and temperature curves.
-* Sun: Custom atmosphere deleted, reverts to stock (was causing a visual artifact when zoomed in on sun).
-* Kerbin: Stylistic change to pressureCurve, atmosphere is effectively unchanged.
-* Eve: Sea level pressure increased to 10 atm, molecular weight reduced, temperatures revised, height now 60 km.
-* Duna: Surface pressure unchanged, temperatures and upper atmosphere revised, height now 75 km.
-* Jool: Lower atmosphere (<10 km) rapidly increases to crushing pressure and high temperature, upper atmosphere revised, height now 550 km.
-* Laythe: Surface pressure unchanged, temperatures and upper atmosphere revised, height now 55 km.
-* Tylo: Atmosphere added, surface pressure 0.2 atm, height 40 km, includes visual changes and scatterer support.
-* timewarpAltitudeLimits and flyingAltitudeThreshold revised where applicable to match new atmosphere heights.
+* Darkened Tylo's atmosphere gradient.
+* Updated HazardousBody syntax for latest Kopernicus.
 
 ## Description
 
@@ -31,7 +24,7 @@ While some properties of the original atmospheres have been preserved, Realistic
    * ModularFlightIntergrator
    * ModuleManager
 
-3. Download Realistic Atmospheres v1.3.0
+3. Download Realistic Atmospheres v1.3.1
 
 4. Copy from [RealisticAtmospheres Download]\GameData\ to [KSP]\GameData\ the folder RealisticAtmospheres and all its contents.
 
