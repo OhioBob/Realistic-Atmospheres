@@ -6,8 +6,9 @@ CC BY-NC-ND
 ## Changelog
 ## v1.3.1
 
-* Darkened Tylo's atmosphere gradient.
-* Updated HazardousBody syntax for latest Kopernicus.
+* Revised Tylo's atmospheric gradient.
+* Updated Tylo's atmosphere for scatterer v0.053.
+* Updated HazardousBody for Kopernicus v1.6.x.
 
 ## Description
 
