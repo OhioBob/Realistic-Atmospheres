@@ -4,11 +4,10 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.3.1
+## v1.3.2
 
-* Revised Tylo's atmospheric gradient.
-* Updated Tylo's atmosphere for scatterer v0.053.
-* Updated HazardousBody for Kopernicus v1.6.x.
+* Updated HazardousBody for Kopernicus v1.8.1.
+* Updated Tylo atmosphere for Scatterer 0.0542.
 
 ## Description
 
@@ -25,7 +24,7 @@ While some properties of the original atmospheres have been preserved, Realistic
    * ModularFlightIntergrator
    * ModuleManager
 
-3. Download Realistic Atmospheres v1.3.1
+3. Download Realistic Atmospheres v1.3.2
 
 4. Copy from [RealisticAtmospheres Download]\GameData\ to [KSP]\GameData\ the folder RealisticAtmospheres and all its contents.
 
