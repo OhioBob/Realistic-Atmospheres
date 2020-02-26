@@ -7,7 +7,7 @@ CC BY-NC-ND
 ## v1.3.2
 
 * Updated HazardousBody for Kopernicus v1.8.1.
-* Updated Tylo atmosphere for Scatterer 0.0542.
+* Updated Tylo atmosphere for Scatterer 0.055.
 
 ## Description
 
